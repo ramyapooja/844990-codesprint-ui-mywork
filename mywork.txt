@@ -1,0 +1,24 @@
+My Associate id:
+844990
+Other team members:
+845090,845088,845069
+TeamLead:
+845090
+My Role in team:
+1.Place Gift Card Order Page
+2. Gift Card Order Pageiew Gift Card Order Page
+My development files:
+1.placeorder.html
+2.placeorder.css
+3.viewcard.html
+4.viewcard.css
+
+
+I was strong in:
+1.Html
+2.css
+
+I was weak in:
+1.Javascript Validation
+Feedback:
+1.able to read codesprint document 1 day in advance will help.
